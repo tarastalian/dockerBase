@@ -164,3 +164,10 @@ git remote set-url origin git@github.com:tarastalian/dockerBase.git
 git push
 git push --set-upstream origin master
 joe .gitignore
+git add .
+git commit -m "quito bash"
+git push
+joe .gitignore
+ls -la
+rm .gitignore~
+rm .token~
