@@ -138,3 +138,29 @@ cd /var/www/symfony && php bin/console debug:container knp_paginator
 git remote add origin https://github.com/tarastalian/dockerBase.git
 git init
 git remote add origin https://github.com/tarastalian/dockerBase.git
+git add .
+git status
+git commit -m "First Commit"
+git push
+git push --set-upstream origin master
+git push --set-upstream origin master
+git push --set-upstream origin master
+git push --set-upstream origin master
+joe .token
+touch .token
+vi .token 
+apt-get install joe
+joe .token
+joe .gitignore 
+git push --set-upstream origin master
+git config --global credential.helper cache
+git push --set-upstream origin master
+ssh-keygen -t ed25519 -C "tarastalian@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+git push --set-upstream origin master
+git push 
+git push --set-upstream origin mastergit remote set-url origin git@github.com:tarastalian/dockerBase.git
+git remote set-url origin git@github.com:tarastalian/dockerBase.git
+git push
+git push --set-upstream origin master
+joe .gitignore
